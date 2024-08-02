@@ -1,0 +1,94 @@
+ *{
+    padding: 0px;
+    margin: 0px;
+ }
+ .header{
+
+ }
+.btn{
+
+    background-color: greenyellow;
+    height: 60px;
+    width: 120px;
+}
+.side{
+    display: flex;
+    justify-content: right;
+    
+}
+.center{
+
+}
+.Bad{
+    text-align: center;
+    border-radius: 30px;
+    height: 50px;
+    width: 150px;
+    background-color: darkgreen;
+    color: white;
+}
+.super{
+    justify-content:space-around;
+}
+.container{
+    justify-content: center;
+}
+.pic{
+    height: 360px;
+    width: 650px;
+    box-sizing: border-box;
+
+}
+.btn2{
+    border-radius: 20px;
+    height: 45px;
+    width: 120px;
+    background-color: silver;
+    color: black;
+}
+.lorem{
+    text-align: center
+
+}
+.mg{
+   text-align: center;
+}
+.AWM{
+    text-align: center;
+}
+.M4{
+    text-align: center;
+ 
+}
+.Rs{
+    text-align: center;
+
+}
+.M10{
+    text-align: center;
+
+}
+.M16{
+    text-align: center;
+
+}
+.Dp{
+    text-align: center;
+
+}
+.Ben10{
+    text-align: center;
+
+}
+.Star{
+    text-align: center;
+
+}
+.OP{
+    text-align: center;
+
+}
+.King{
+    text-align: center;
+
+}
